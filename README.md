@@ -23,7 +23,6 @@
 * Taittsuu: https://taittsuu.com/users/nabetani
 * Bluesky: https://bsky.app/profile/nabetani.bsky.social
 * blog: https://nabetani.hatenadiary.com/
-* LAPRAS: https://lapras.com/public/SH2B3US
 
 ## Qiita
 
