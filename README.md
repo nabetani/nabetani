@@ -14,7 +14,7 @@
 - 🔭 I’m currently working in Yokohama.
 - 👨‍💻 I'm software engineer.
 - 🧙 I love ruby and C++.
-- 📫 How to reach me: You can use Twitter DM.
+- 📫 How to reach me: You can use Misskey, Bluesky or Taittsuu DM.
 - 🤥 NABETANI Takenori is **NOT** my real name.
 
 # SNS and blogs
